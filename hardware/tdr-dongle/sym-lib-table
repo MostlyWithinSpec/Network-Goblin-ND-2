@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ND2")(type "KiCad")(uri "${KIPRJMOD}/ND2.kicad_sym")(options "")(descr "ND-2 custom symbols"))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ND2")(type "KiCad")(uri "${KIPRJMOD}/ND2.pretty")(options "")(descr "ND-2 footprints (from LCSC/EasyEDA)"))
+)
