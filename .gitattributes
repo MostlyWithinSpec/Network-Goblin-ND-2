@@ -1,0 +1,26 @@
+* text=auto eol=lf
+*.kicad_pcb  text eol=lf
+*.kicad_sch  text eol=lf
+*.kicad_sym  text eol=lf
+*.kicad_mod  text eol=lf
+*.kicad_pro  text eol=lf linguist-language=JSON
+*.net        text eol=lf
+*.csv        text eol=lf
+*.py         text eol=lf
+*.gbr        text eol=lf linguist-generated
+*.gtl        text eol=lf linguist-generated
+*.gbl        text eol=lf linguist-generated
+*.g1         text eol=lf linguist-generated
+*.g2         text eol=lf linguist-generated
+*.gts        text eol=lf linguist-generated
+*.gbs        text eol=lf linguist-generated
+*.gto        text eol=lf linguist-generated
+*.gbo        text eol=lf linguist-generated
+*.gtp        text eol=lf linguist-generated
+*.gbp        text eol=lf linguist-generated
+*.gm1        text eol=lf linguist-generated
+*.drl        text eol=lf linguist-generated
+*.zip  binary
+*.png  binary
+*.pdf  binary
+*.step binary

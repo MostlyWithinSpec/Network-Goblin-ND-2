@@ -1,0 +1,28 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+_autosave-*
+*.bak
+*-bak
+~*.lck
+\#auto_saved_files#
+
+# Generated / scratch from the scripts
+drc.json
+*.erc.rpt
+_*.svg
+hardware/**/route/
+hardware/**/fab/gerbers/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
